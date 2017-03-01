@@ -1,0 +1,1 @@
+# AssetStore_UI_TextAnimation_Pack_original_WebGL
